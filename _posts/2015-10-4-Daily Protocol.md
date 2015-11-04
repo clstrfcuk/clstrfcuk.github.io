@@ -7,48 +7,46 @@ title: Daily protocol
 
 **5:30**
 
-* LEF Mitochondrial Energy Optimizer | 2 pills | examine.com
-* yoga | 15 - 30 min | get the engine going | examine.com
-* walk | 15 - 30 min | get the engine going | examine.com
+* LEF Mitochondrial Energy Optimizer | 2x
+* Yoga | 15 - 30 min or
+* Walk | 15 - 30 min or
+* Workout
 
 **7:00**
 
-* LEF Mitochondrial Energy Optimizer | 2 pills | examine.com
-* Coenzyme Q10  | 200 mg | examine.com
-* Astaxanthin  | 12 mg | examine.com
-* BCAA's  | 3 gr | examine.com
-* Vitamin D | 4.000 IU | examine.com
-* Vitamin K | 1.000 IU | examine.com
+* Curcumin + black pepper | 500 mg
+* Armodafinil | 75 mg
+* Coenzyme Q10  | 200 mg
+* Astaxanthin  | 12 mg
+* BCAA's  | 3 gr
+* Vitamin D | 4.000 IU
+* Vitamin K | 1.000 IU
 
 **12:00**
 
-Coffe Nap:
+Coffe nap:
 
-* 1 Cup Coffe + 50 mg Modafinil
-* 30 Binaural Beats + Deep Relaxation Audio
+* 1 cup of coffe + (if needed) 50 mg Modafinil
+* Binaural Beats + Deep Relaxation Audio | 30 min
 
-* LEF Mitochondrial Energy Optimizer | 2 pills | examine.com
-* Coenzyme Q10  | 200 mg | examine.com
-* Astaxanthin  | 12 mg | examine.com
-* BCAA's  | 3 gr | examine.com
-* Vitamin D | 4.000 IU | examine.com
-* Vitamin K | 1.000 IU | examine.com
 
 **14:00 Workout**
 
-HIT
-Cardio
+* HIT
+* Cardio
+* Whey Shake | 40 gr
 
 **17:00**
 
-* LEF Mitochondrial Energy Optimizer | 2 pills | examine.com
-* Coenzyme Q10  | 200 mg | examine.com
-* Astaxanthin  | 12 mg | examine.com
-* BCAA's  | 3 gr | examine.com
-* Vitamin D | 4.000 IU | let the sun shine | examine.com
-* Vitamin K | 1.000 IU | examine.com
+* L-Theanin | 150 mg
 
 **21:30**
 
+* Magnesium citrate | 1 gr
+* Cink citrate | 50 mg
+* L-Theanin | 150 mg
 * LLLT (low level laser therapy) | 6 x 30 sec | examine.com
+* Acupressure mat | 30 min
 * read w f.lux  | 1 hour b sleep | examine.com
+
+rinse & repeat
