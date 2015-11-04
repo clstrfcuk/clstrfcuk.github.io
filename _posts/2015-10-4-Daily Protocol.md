@@ -3,8 +3,6 @@ layout: post
 title: Daily protocol
 ---
 
-![focus](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/optimized2.jpg "focus")
-
 **5:30**
 
 * LEF Mitochondrial Energy Optimizer | 2x
