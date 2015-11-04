@@ -81,16 +81,16 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
+    disqus : disqus_r9twOd3Vav
+      short_name : clstrfcuk
     livefyre :
-      site_id : 123
+      site_id :
     intensedebate :
-      account : 123abc
+      account :
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
+      appid :
+      num_posts:
+      width:
       colorscheme: light
     duoshuo :
       short_name : jekyllbootstrap
