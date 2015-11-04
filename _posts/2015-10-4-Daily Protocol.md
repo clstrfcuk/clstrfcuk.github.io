@@ -29,7 +29,6 @@ Coffe nap:
 * 1 cup of coffe + (if needed) 50 mg Modafinil
 * Binaural Beats + Deep Relaxation Audio | 30 min
 
-
 **14:00 Workout**
 
 * HIT
