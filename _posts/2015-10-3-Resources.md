@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Resources
+tagline: "rinse & repeat"
+tags : [links, resources, reddit, longecity]
 ---
-
-![petri](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/dish.jpg "petri")
 
 **Quantified self**
 
