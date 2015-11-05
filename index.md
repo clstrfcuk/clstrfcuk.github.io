@@ -12,7 +12,7 @@ title: a state of tranquil bliss.
 
 ![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
 
-# My daily protocol
+# My daily protocol ![pill](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pill.gif "pill")
 
 **5:30**
 
