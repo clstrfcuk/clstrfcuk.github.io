@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Hello!
+title: Welcome!
 tagline: Enjoy your stay.
 ---
 {% include JB/setup %}
-
-This is just another blog.
 
 ![mirror](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/Paper_Tiger.jpg "Mirror")
 
@@ -17,7 +15,3 @@ Topics:
 * Random rants
 * Video games
 * Movies
-
-All the information published on this website is for educational purposes only.
-
-
