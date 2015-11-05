@@ -12,7 +12,9 @@ title: a state of tranquil bliss.
 
 ![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
 
-# My daily protocol ![pill](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pill.gif "pill")
+Daily Protocol
+
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
 
 **5:30**
 
@@ -21,6 +23,8 @@ title: a state of tranquil bliss.
 - Yoga // 15 30 min or
 - Walk // 30 60 min or
 - Workout
+
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
 
 **7:00**
 
@@ -34,12 +38,16 @@ title: a state of tranquil bliss.
 - Vitamin D // 4.000 IU
 - Vitamin K // 1.000 IU
 
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
+
 **12:00**
 
 - Coffe nap:
 
 - 1 cup of coffe + (if needed) 50 mg Modafinil
 - Binaural Beats + Deep Relaxation Audio // 30 min
+
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
 
 **14:00**
 
@@ -49,9 +57,13 @@ title: a state of tranquil bliss.
 - Cardio
 - Whey Shake // 40 gr
 
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
+
 **17:00**
 
 - L-Theanin // 150 mg
+
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
 
 **21:30**
 
@@ -61,3 +73,5 @@ title: a state of tranquil bliss.
 - LLLT (low level laser therapy) // 6 x 30 sec // examine.com
 - Acupressure mat // 30 min
 - Read w f.lux  // 1 hour b sleep // examine.com
+
+![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
