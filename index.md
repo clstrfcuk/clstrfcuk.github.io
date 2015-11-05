@@ -35,7 +35,7 @@ title: a state of tranquil bliss.
 
 #### 12:00 - coffe nap
 
-- 1 cup of coffe + (if needed) 50 mg Modafinil
+- Coffe + (sometimes) 50 mg Modafinil
 - Binaural Beats + Deep Relaxation Audio // 30 min
 
 #### 14:00 - workout
