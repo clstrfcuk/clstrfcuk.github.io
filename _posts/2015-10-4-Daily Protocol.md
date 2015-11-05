@@ -14,6 +14,8 @@ tags : [protocol, stack, daily, supplements]
 
 **7:00**
 
+- Coffee with 1 tsp cocoa, 1 tbsp coconut oil, 30 gr grass fed butter
+- Kombucha
 - Curcumin + black pepper | 500 mg
 - Armodafinil | 75 mg
 - Coenzyme Q10  | 200 mg
