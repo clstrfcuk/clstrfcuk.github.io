@@ -23,6 +23,7 @@ title: a state of tranquil bliss.
 ### 7:00 - getting ready for work
 
 - Coffee with 1 tsp cocoa, 1 tbsp coconut oil, 30 gr grass fed butter
+- L-Theanine // 150 mg
 - Kombucha // 1 glass
 - Curcumin + black pepper // 500 mg
 - Armodafinil // 75 mg
@@ -45,13 +46,14 @@ title: a state of tranquil bliss.
 
 #### 17:00 - slowing down
 
-- L-Theanin // 150 mg
+- L-Theanine // 150 mg
 
 #### 21:30 - deep relaxation
 
 - Magnesium citrate // 1 gr
 - Cink citrate // 50 mg
-- L-Theanin // 150 mg
+- L-Theanine // 150 mg
+- Melatonin // 300 mcg
 - LLLT (low level laser therapy) // 6 x 30 sec // examine.com
 - Acupressure mat // 30 min
 - Read w f.lux  // 1 hour b sleep // examine.com
