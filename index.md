@@ -61,5 +61,3 @@ title: a state of tranquil bliss.
 - LLLT (low level laser therapy) // 6 x 30 sec // examine.com
 - Acupressure mat // 30 min
 - Read w f.lux  // 1 hour b sleep // examine.com
-
-rinse & repeat
