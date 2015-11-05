@@ -4,7 +4,9 @@ title:
 ---
 {% include JB/setup %}
 
-![metanoia](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/samurai.png "metanoia")
+![metanoia](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/metanoia.png "metanoia")
+
+![samurai](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/samurai.png "samurai")
 
 Topics:
 
