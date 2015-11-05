@@ -16,6 +16,7 @@ title: a state of tranquil bliss.
 
 #### 5:30 - wake up
 
+
 - LEF Mitochondrial Energy Optimizer 2x
 - Hot water with organic lemon juice
 - Yoga // 15 30 min or
@@ -23,6 +24,7 @@ title: a state of tranquil bliss.
 - Workout
 
 ### 7:00 - getting ready for work
+
 
 - Coffee with 1 tsp cocoa, 1 tbsp coconut oil, 30 gr grass fed butter
 - Kombucha // 1 glass
@@ -36,10 +38,12 @@ title: a state of tranquil bliss.
 
 #### 12:00 - coffe nap
 
+
 - 1 cup of coffe + (if needed) 50 mg Modafinil
 - Binaural Beats + Deep Relaxation Audio // 30 min
 
 #### 14:00 - workout
+
 
 - HIT
 - Cardio
@@ -47,9 +51,11 @@ title: a state of tranquil bliss.
 
 #### 17:00 - slowing down
 
+
 - L-Theanin // 150 mg
 
 #### 21:30 - deep relaxation
+
 
 - Magnesium citrate // 1 gr
 - Cink citrate // 50 mg
