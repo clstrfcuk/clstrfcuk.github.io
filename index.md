@@ -4,7 +4,7 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-![metanoia](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/red_sun_samurai.png "metanoia")
+![metanoia](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/samurai.png "metanoia")
 
 Topics:
 
