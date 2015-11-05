@@ -4,7 +4,7 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-![mirror](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/Paper_Tiger.jpg "Mirror")
+![metanoia](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/red_sun_samurai.png "metanoia")
 
 Topics:
 
