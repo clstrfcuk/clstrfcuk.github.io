@@ -12,8 +12,6 @@ title: a state of tranquil bliss.
 
 ![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
 
-### Daily Protocol
-
 #### 5:30 - wake up
 
 
