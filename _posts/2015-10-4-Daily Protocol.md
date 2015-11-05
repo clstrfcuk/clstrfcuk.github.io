@@ -5,7 +5,7 @@ tagline: "rinse & repeat"
 tags : [protocol, stack, daily, supplements]
 ---
 
-![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
+![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern-s.jpg "protocol")
 
 #### 5:30 - wake up
 
