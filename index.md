@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: a state of tranquil bliss.
 ---
 {% include JB/setup %}
 
