@@ -10,6 +10,8 @@ title: a state of tranquil bliss.
 
 *Terry Wahls M.D.*
 
+![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/daily-protocol.jpg "protocol")
+
 # My daily protocol
 
 **5:30**
