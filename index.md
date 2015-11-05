@@ -4,37 +4,8 @@ title:
 ---
 {% include JB/setup %}
 
-html, body {
-  background-color: #eee;
-}
-body {
-  padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
-}
-.container > footer p {
-  text-align: center; /* center align it with the container */
-}
-.container {
-  width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
-}
-
-/* The white background content wrapper */
-.content {
-  background-color: #fff;
-  padding: 20px;
-  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-  -webkit-border-radius: 0 0 6px 6px;
-     -moz-border-radius: 0 0 6px 6px;
-          border-radius: 0 0 6px 6px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
-}
-
-/* Page header tweaks */
-.page-header {
-  background-color: #eee;
-  padding: 0px 0px 0px;
-  margin: 0px 0px 0px;
-}
-
 ![solar](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/solar.jpg "solar")
+
+> The key is to know how to shift the odds toward achieving the most optimal health, given the genes that you were born with, by making your internal environment—your cellular environment—as favorable as possible. Your health and vitality are in your hands. You don’t have to be a doctor or be able to diagnose yourself to start making changes in your own body at the cellular level. No matter what details we tease out of the picture as we try to diagnose and distinguish one disease from another, the truth is that dysfunction starts at the mitochondrial and cellular levels with broken biochemistry. If we arrest it there, the body can heal.
+
+- Terry Wahls M.D.
