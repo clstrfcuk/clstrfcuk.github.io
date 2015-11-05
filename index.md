@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome!
-tagline: Enjoy your stay
 ---
 {% include JB/setup %}
 
