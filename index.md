@@ -12,11 +12,9 @@ title: a state of tranquil bliss.
 
 ![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
 
-Daily Protocol
+### Daily Protocol
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**5:30**
+#### 5:30
 
 - LEF Mitochondrial Energy Optimizer 2x
 - Hot water with organic lemon juice
@@ -24,9 +22,7 @@ Daily Protocol
 - Walk // 30 60 min or
 - Workout
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**7:00**
+### 7:00
 
 - Coffee with 1 tsp cocoa, 1 tbsp coconut oil, 30 gr grass fed butter
 - Kombucha // 1 glass
@@ -38,18 +34,14 @@ Daily Protocol
 - Vitamin D // 4.000 IU
 - Vitamin K // 1.000 IU
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**12:00**
+#### 12:00
 
 - Coffe nap:
 
 - 1 cup of coffe + (if needed) 50 mg Modafinil
 - Binaural Beats + Deep Relaxation Audio // 30 min
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**14:00**
+#### 14:00
 
 - Workout:
 
@@ -57,15 +49,11 @@ Daily Protocol
 - Cardio
 - Whey Shake // 40 gr
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**17:00**
+#### 17:00
 
 - L-Theanin // 150 mg
 
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
-
-**21:30**
+#### 21:30
 
 - Magnesium citrate // 1 gr
 - Cink citrate // 50 mg
@@ -73,5 +61,3 @@ Daily Protocol
 - LLLT (low level laser therapy) // 6 x 30 sec // examine.com
 - Acupressure mat // 30 min
 - Read w f.lux  // 1 hour b sleep // examine.com
-
-![skin](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/skin.jpg "skin")
