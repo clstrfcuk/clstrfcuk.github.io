@@ -5,8 +5,8 @@
         <description>metanoia - </description>
         <link>http://clstrfcuk.github.io</link>
         <atom:link href="http://clstrfcuk.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Nov 2015 09:37:59 +0100</lastBuildDate>
-        <pubDate>Fri, 06 Nov 2015 09:37:59 +0100</pubDate>
+        <lastBuildDate>Fri, 06 Nov 2015 10:39:02 +0100</lastBuildDate>
+        <pubDate>Fri, 06 Nov 2015 10:39:02 +0100</pubDate>
         <ttl>60</ttl>
 
 
@@ -95,6 +95,7 @@
   &lt;li&gt;news.ycombinator.com&lt;/li&gt;
   &lt;li&gt;gwern.net&lt;/li&gt;
   &lt;li&gt;labdoor.com&lt;/li&gt;
+  &lt;li&gt;brainmeta.com/forum/&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;DNA&lt;/strong&gt;&lt;/p&gt;
@@ -105,6 +106,9 @@
   &lt;li&gt;geneticgenie.org&lt;/li&gt;
   &lt;li&gt;athletigen.com&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/p&gt;
+
 </description>
                 <link>http://clstrfcuk.github.io/Resources</link>
                 <guid>http://clstrfcuk.github.io/Resources</guid>

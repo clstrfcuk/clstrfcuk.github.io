@@ -4,7 +4,7 @@
  <title>metanoia</title>
  <link href="http://clstrfcuk.github.io/atom.xml" rel="self"/>
  <link href="http://clstrfcuk.github.io"/>
- <updated>2015-11-06T09:37:59+01:00</updated>
+ <updated>2015-11-06T10:39:02+01:00</updated>
  <id>http://clstrfcuk.github.io</id>
  <author>
    <name></name>
@@ -100,6 +100,7 @@
   &lt;li&gt;news.ycombinator.com&lt;/li&gt;
   &lt;li&gt;gwern.net&lt;/li&gt;
   &lt;li&gt;labdoor.com&lt;/li&gt;
+  &lt;li&gt;brainmeta.com/forum/&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;DNA&lt;/strong&gt;&lt;/p&gt;
@@ -110,6 +111,9 @@
   &lt;li&gt;geneticgenie.org&lt;/li&gt;
   &lt;li&gt;athletigen.com&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
