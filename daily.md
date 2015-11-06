@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Daily Protocol
+title: Daily
+description:
 ---
 {% include JB/setup %}
+
 
 ![protocol](https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern.jpg "protocol")
 
