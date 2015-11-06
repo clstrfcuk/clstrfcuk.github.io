@@ -4,7 +4,7 @@
  <title>metanoia</title>
  <link href="http://clstrfcuk.github.io/atom.xml" rel="self"/>
  <link href="http://clstrfcuk.github.io"/>
- <updated>2015-11-05T13:51:46+01:00</updated>
+ <updated>2015-11-06T09:37:59+01:00</updated>
  <id>http://clstrfcuk.github.io</id>
  <author>
    <name></name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Daily protocol</title>
-   <link href="http://clstrfcuk.github.io/2015/10/04/Daily%20Protocol"/>
+   <link href="http://clstrfcuk.github.io/daily-protocol"/>
    <updated>2015-10-04T00:00:00+02:00</updated>
-   <id>http://clstrfcuk.github.io/2015/10/04/Daily Protocol</id>
+   <id>http://clstrfcuk.github.io/daily-protocol</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/clstrfcuk/clstrfcuk.github.io/master/images/pattern-s.jpg&quot; alt=&quot;protocol&quot; title=&quot;protocol&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;wake-up&quot;&gt;5:30 - wake up&lt;/h4&gt;
@@ -79,9 +79,9 @@
  
  <entry>
    <title>Resources</title>
-   <link href="http://clstrfcuk.github.io/2015/10/03/Resources"/>
+   <link href="http://clstrfcuk.github.io/Resources"/>
    <updated>2015-10-03T00:00:00+02:00</updated>
-   <id>http://clstrfcuk.github.io/2015/10/03/Resources</id>
+   <id>http://clstrfcuk.github.io/Resources</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Quantified self&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;

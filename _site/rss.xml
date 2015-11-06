@@ -5,8 +5,8 @@
         <description>metanoia - </description>
         <link>http://clstrfcuk.github.io</link>
         <atom:link href="http://clstrfcuk.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Nov 2015 13:51:46 +0100</lastBuildDate>
-        <pubDate>Thu, 05 Nov 2015 13:51:46 +0100</pubDate>
+        <lastBuildDate>Fri, 06 Nov 2015 09:37:59 +0100</lastBuildDate>
+        <pubDate>Fri, 06 Nov 2015 09:37:59 +0100</pubDate>
         <ttl>60</ttl>
 
 
@@ -70,8 +70,8 @@
   &lt;li&gt;Read w f.lux  // 1 hour b sleep // examine.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>http://clstrfcuk.github.io/2015/10/04/Daily%20Protocol</link>
-                <guid>http://clstrfcuk.github.io/2015/10/04/Daily Protocol</guid>
+                <link>http://clstrfcuk.github.io/daily-protocol</link>
+                <guid>http://clstrfcuk.github.io/daily-protocol</guid>
                 <pubDate>Sun, 04 Oct 2015 00:00:00 +0200</pubDate>
         </item>
 
@@ -106,8 +106,8 @@
   &lt;li&gt;athletigen.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>http://clstrfcuk.github.io/2015/10/03/Resources</link>
-                <guid>http://clstrfcuk.github.io/2015/10/03/Resources</guid>
+                <link>http://clstrfcuk.github.io/Resources</link>
+                <guid>http://clstrfcuk.github.io/Resources</guid>
                 <pubDate>Sat, 03 Oct 2015 00:00:00 +0200</pubDate>
         </item>
 

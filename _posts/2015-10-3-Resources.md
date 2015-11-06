@@ -20,6 +20,7 @@ tags : [links, resources, reddit, longecity]
 * news.ycombinator.com
 * gwern.net
 * labdoor.com
+* brainmeta.com/forum/
 
 **DNA**
 
@@ -27,3 +28,6 @@ tags : [links, resources, reddit, longecity]
 * promethease.com
 * geneticgenie.org
 * athletigen.com
+
+**Tools**
+
